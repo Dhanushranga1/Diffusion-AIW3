@@ -27,7 +27,7 @@
 
 ## Final Model Performance
 
-### 📷 Image Denoising (CIFAR-10)
+###  Image Denoising (CIFAR-10)
 - **Best Version**: v1 (trained longer on the same U-Net)
 - **Metrics**:
   - **Noisy PSNR**: 14.64 dB → **Denoised PSNR**: 25.11 dB
@@ -100,6 +100,17 @@
 | Notes             | Required precise dtype matching (float16), proper latent handling with VAE, and merging LoRA after training for inference |
 
 ---
+
+image generated post fine tuning Stable Diffusion + Lora Fine-Tuning
+Prompt:
+prompt = "a red sports car on a highway, cinematic lighting, ultra detailed"
+
+![car_lora_sample](https://github.com/user-attachments/assets/fe550e81-6778-42d5-86bc-e780b4a5b9b1)
+
+
+Images generated using the general Stable Diffusion model from hugging face 
+
+
 
 ## Issues Faced (During LoRA Fine-Tuning)
 
