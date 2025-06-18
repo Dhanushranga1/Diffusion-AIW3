@@ -110,19 +110,24 @@ prompt = "a red sports car on a highway, cinematic lighting, ultra detailed"
 
 Images generated using the general Stable Diffusion model from hugging face 
 
-Prompt 1: Prompt: "A cozy mountain cabin during snowfall, warm lights glowing inside"![sample_image_5](https://github.com/user-attachments/assets/29f7058b-b942-4744-af1c-bfde9a280d0d)
+Prompt 1: Prompt: "A cozy mountain cabin during snowfall, warm lights glowing inside"
+![sample_image_5](https://github.com/user-attachments/assets/29f7058b-b942-4744-af1c-bfde9a280d0d)
 
-Prompt 2: Prompt: "An astronaut riding a horse on Mars, dramatic ligh![sample_image_4](https://github.com/user-attachments/assets/d719a780-4d7a-4bf6-8e66-e22a38659da1)
-ting"
+Prompt 2: Prompt: "An astronaut riding a horse on Mars, dramatic lighting"
+![sample_image_4](https://github.com/user-attachments/assets/d719a780-4d7a-4bf6-8e66-e22a38659da1)
+
+Prompt 3: Prompt: "A majestic lion with a glowing mane, fantasy setting"
 Prompt![sample_image_3](https://github.com/user-attachments/assets/531de65c-c7c6-4708-83b0-b83f8ca04ed5)
- 3: Prompt: "A majestic lion with a glowing mane, fantasy setting"
-Prompt![sample_image_2](https://github.com/user-attachments/assets/6194b668-3790-44e1-bf8c-73885f84c615)
- 4: Prompt:![sample_image_2](https://github.com/user-attachments/assets/b5145730-71ab-43e5-96e7-2ee6039def0b)
- "A futuristic Tokyo street at night, neon lights and rain"
+
+Prompt 4: Prompt: "A futuristic Tokyo street at night, neon lights and rain"
+
+![sample_image_2](https://github.com/user-attachments/assets/6194b668-3790-44e1-bf8c-73885f84c615)
+ 
 
 
-5: Prompt: ""![sample_image_1](https://github.com/user-attachments/assets/b1829518-e121-4202-974e-8262d335860c)
-A surreal landscape with floating islands and waterfalls"
+5: Prompt: "A surreal landscape with floating islands and waterfalls"
+![sample_image_1](https://github.com/user-attachments/assets/b1829518-e121-4202-974e-8262d335860c)
+
 
 ## Issues Faced (During LoRA Fine-Tuning)
 
